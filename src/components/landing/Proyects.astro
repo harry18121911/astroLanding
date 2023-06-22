@@ -1,0 +1,19 @@
+---
+import {proyects} from "../../config/proyects.json"
+---
+<h2 class="font-bold text-5x1">Proyects</h2>
+
+
+{
+    proyects.map((proyect)=>(
+    <div class="flex text-center">
+        <div class="flex-1">
+            <h1>{proyect.title}</h1>
+            <p>{proyect.description}</p>               
+        </div>
+        <div class="flex-1">
+            <img class="w-72  m-auto" src={proyect.image} alt="">
+        </div>
+    </div>
+    ))  
+}

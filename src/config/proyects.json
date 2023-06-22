@@ -1,0 +1,20 @@
+{
+    "proyects": [
+        {
+            "title": "Farm 1",
+            "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio, sapiente. Modi ex ipsa facilis suscipit.",
+            "image":"images/snack.svg"
+        },
+        {
+            "title": "Farm 2",
+            "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio, sapiente. Modi ex ipsa facilis suscipit.",           
+            "image":"images/snack.svg"
+        },
+        {
+            "title": "Farm 3",
+            "description":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio, sapiente. Modi ex ipsa facilis suscipit.",
+            
+            "image":"images/snack.svg"
+        }
+    ]
+}
